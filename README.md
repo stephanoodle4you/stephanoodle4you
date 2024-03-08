@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hi there 👋 I'm Stephanie! 
 
+A few quick things about me:
+
+- 🌱 I’m currently learning Python.
+- ⚡ Fun fact: I live in both Canada and the United States!
+- 📫 How to reach me: stephanie@geekazoid.net
 <!--
 **stephanoodle4you/stephanoodle4you** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
